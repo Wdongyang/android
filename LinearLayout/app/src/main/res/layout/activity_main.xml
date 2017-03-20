@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oreientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="259dp"
+        android:text="扣钉科技公司"
+        android:gravity="top"
+        android:textSize="30pt"
+        android:background="#aa0000"
+        android:padding="10dip"
+        android:layout_weightgth="2"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:text="移动联盟"
+        android:gravity="right"
+        android:textSize="10pt"
+        android:background="#0000aa"
+        android:padding="7dip"
+        android:layout_weightgth="1"
+        android:id="@+id/textView2" />
+
+
+</LinearLayout>
