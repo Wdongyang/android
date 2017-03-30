@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogActivity</string>
+    <string name="hello">Hello World, LogActivity!</string>
+    <string name="hello2">Hello World, LogActivity2!</string>
+</resources>
