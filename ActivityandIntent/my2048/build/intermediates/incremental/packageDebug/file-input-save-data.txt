@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 11 11:57:14 CST 2017
+#Thu May 11 14:53:11 CST 2017
 8.set=ANDROID_RESOURCE
 1.base=E\:\\AndroidStudioProjects\\android\\ActivityandIntent\\my2048\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 1.file=E\:\\AndroidStudioProjects\\android\\ActivityandIntent\\my2048\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

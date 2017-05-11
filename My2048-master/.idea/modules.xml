@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/My2048-master.iml" filepath="$PROJECT_DIR$/My2048-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/My2048-master.iml" filepath="$PROJECT_DIR$/.idea/My2048-master.iml" />
     </modules>
   </component>
 </project>

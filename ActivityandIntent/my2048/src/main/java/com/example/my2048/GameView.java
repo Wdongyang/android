@@ -163,7 +163,7 @@ public class GameView extends GridLayout {
 							cards[x][y].setNum(cards[x][y1].getNum());
 							cards[x][y1].setNum(0);
 
-							y++;// �ϲ�ǰһ���ƶ��ģ�
+							y++;
 
 							merge = true;
 						} else if (cards[x][y1].equals(cards[x][y])) {
@@ -263,7 +263,7 @@ public class GameView extends GridLayout {
 							cards[x][y].setNum(cards[x1][y].getNum());
 							cards[x1][y].setNum(0);
 
-							x++;// �ϲ�ǰһ���ƶ��ģ�
+							x++;
 
 							merge = true;
 						} else if (cards[x1][y].equals(cards[x][y])) {
