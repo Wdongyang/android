@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivityandIntent.iml" filepath="$PROJECT_DIR$/ActivityandIntent.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my2048/my2048.iml" filepath="$PROJECT_DIR$/my2048/my2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuziqi/wuziqi.iml" filepath="$PROJECT_DIR$/wuziqi/wuziqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/通讯录选择器AZ/通讯录选择器AZ.iml" filepath="$PROJECT_DIR$/通讯录选择器AZ/通讯录选择器AZ.iml" />
     </modules>
   </component>
 </project>

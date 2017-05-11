@@ -1,0 +1,7 @@
+#Thu May 11 11:57:14 CST 2017
+base.0=E\:\\AndroidStudioProjects\\android\\ActivityandIntent\\my2048\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_50986351ad9f60735e7e7e0465e5636a9ea7310f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidStudioProjects\\android\\ActivityandIntent\\my2048\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c5d15998c7c29651dd7e6642cf939f726ea72662\\classes.dex
+base.1=E\:\\AndroidStudioProjects\\android\\ActivityandIntent\\my2048\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c5d15998c7c29651dd7e6642cf939f726ea72662
+file.0=E\:\\AndroidStudioProjects\\android\\ActivityandIntent\\my2048\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_50986351ad9f60735e7e7e0465e5636a9ea7310f\\classes.dex

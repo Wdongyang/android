@@ -1,1 +1,4 @@
-include ':app'
+include ':app', ':wuziqi'
+include ':my2048'
+include ':my2048'
+include ':通讯录选择器AZ'

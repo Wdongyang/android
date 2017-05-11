@@ -10,6 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/my2048" />
+            <option value="$PROJECT_DIR$/wuziqi" />
+            <option value="$PROJECT_DIR$/通讯录选择器AZ" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
