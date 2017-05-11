@@ -72,7 +72,6 @@ public class MainActivity extends Activity {
 		restart.setOnClickListener(new OnClickListener() {
 
 			public void onClick(View v) {
-				// TODO Auto-generated method stub
 				gv.startGame();
 			}
 		});

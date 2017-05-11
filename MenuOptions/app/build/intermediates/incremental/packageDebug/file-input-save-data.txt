@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat Apr 01 10:37:11 CST 2017
+1.base=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=DEX
+0.base=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.base=C\:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\res\\resources-debug.ap_

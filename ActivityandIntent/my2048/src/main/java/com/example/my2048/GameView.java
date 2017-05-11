@@ -26,19 +26,16 @@ public class GameView extends GridLayout {
 
 	public GameView(Context context) {
 		super(context);
-		// TODO Auto-generated constructor stub
 		initGameView();
 	}
 
 	public GameView(Context context, AttributeSet attrs) {
 		super(context, attrs);
-		// TODO Auto-generated constructor stub
 		initGameView();
 	}
 
 	public GameView(Context context, AttributeSet attrs, int defStyle) {
 		super(context, attrs, defStyle);
-		// TODO Auto-generated constructor stub
 		initGameView();
 	}
 
@@ -55,7 +52,6 @@ public class GameView extends GridLayout {
 			private float startx, starty, offsetx, offsety;
 
 			public boolean onTouch(View v, MotionEvent event) {
-				// TODO Auto-generated method stub
 				switch (event.getAction()) {
 				case MotionEvent.ACTION_DOWN:
 					startx = event.getX();
@@ -90,7 +86,6 @@ public class GameView extends GridLayout {
 
 	@Override
 	protected void onSizeChanged(int w, int h, int oldw, int oldh) {
-		// TODO Auto-generated method stub
 		super.onSizeChanged(w, h, oldw, oldh);
 
 		int cardWith = (Math.min(w, h) - 10) / 4;
@@ -145,7 +140,6 @@ public class GameView extends GridLayout {
 	}
 
 	protected void swipeDown() {
-		// TODO Auto-generated method stub
 		boolean merge = false;
 		for (int x = 0; x < 4; x++) {
 			for (int y = 3; y >= 0; y--) {
@@ -195,7 +189,6 @@ public class GameView extends GridLayout {
 	}
 
 	protected void swipeUp() {
-		// TODO Auto-generated method stub
 		boolean merge = false;
 		for (int x = 0; x < 4; x++) {
 			for (int y = 0; y < 4; y++) {
@@ -213,7 +206,7 @@ public class GameView extends GridLayout {
 							cards[x][y].setNum(cards[x][y1].getNum());
 							cards[x][y1].setNum(0);
 
-							y--;// �ϲ�ǰһ���ƶ��ģ�
+							y--;
 
 							merge = true;
 						} else if (cards[x][y1].equals(cards[x][y])) {
@@ -245,7 +238,6 @@ public class GameView extends GridLayout {
 	}
 
 	protected void swipeRight() {
-		// TODO Auto-generated method stub
 		boolean merge = false;
 		for (int y = 0; y < 4; y++) {
 			for (int x = 3; x >= 0; x--) {
@@ -295,7 +287,6 @@ public class GameView extends GridLayout {
 	}
 
 	protected void swipeLeft() {
-		// TODO Auto-generated method stub
 
 		boolean merge = false;
 		for (int y = 0; y < 4; y++) {
@@ -347,7 +338,6 @@ public class GameView extends GridLayout {
 	}
 
 	private void chickCompleted() {
-		// TODO Auto-generated method stub
 		boolean complete = true;
 		ALL: for (int y = 0; y < 4; y++) {
 			for (int x = 0; x < 4; x++) {
@@ -368,13 +358,12 @@ public class GameView extends GridLayout {
 
 			new AlertDialog.Builder(getContext())
 					.setTitle("Game Over!")
-					.setMessage("��Ϸ������")
+					.setMessage("")
 					.setPositiveButton("点此开始重新开始游戏",
 							new DialogInterface.OnClickListener() {
 
 								public void onClick(DialogInterface dialog,
 										int which) {
-									// TODO Auto-generated method stub
 									startGame();
 								}
 							}).show();

@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuContext\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuContext\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 48,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 40,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuContext\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 35,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuContext\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 100,
+                        "endColumn": 39,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 35,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuContext\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 16,
+                        "startOffset": 148,
+                        "endColumn": 47,
+                        "endOffset": 179
+                    }
+                }
+            }
+        ]
+    }
+]

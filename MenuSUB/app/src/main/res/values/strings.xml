@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MenuSUB!</string>
+        <string name="title">搜索</string>
+         <string name="local">本地</string>
+          <string name="network">网络</string>
+    <string name="app_name">MenuSUB</string>
+</resources>

@@ -14,17 +14,17 @@ public class Animlayer extends FrameLayout {
 
 	public Animlayer(Context context, AttributeSet attrs, int defStyle) {
 		super(context, attrs, defStyle);
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public Animlayer(Context context, AttributeSet attrs) {
 		super(context, attrs);
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public Animlayer(Context context) {
 		super(context);
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public void createMoveAnim(final Card from, final Card to, int fromX,
@@ -46,17 +46,17 @@ public class Animlayer extends FrameLayout {
 		ta.setAnimationListener(new Animation.AnimationListener() {
 
 			public void onAnimationStart(Animation animation) {
-				// TODO Auto-generated method stub
+
 
 			}
 
 			public void onAnimationRepeat(Animation animation) {
-				// TODO Auto-generated method stub
+
 
 			}
 
 			public void onAnimationEnd(Animation animation) {
-				// TODO Auto-generated method stub
+
 				to.getLable().setVisibility(View.VISIBLE);
 				c.setVisibility(View.INVISIBLE);
 				removeView(c);

@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 48,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 35,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 102,
+                        "endColumn": 39,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 42,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "C:\\Users\\zhbit\\Desktop\\Andy\\20170331\\Menu_AS\\MenuOptions\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            }
+        ]
+    }
+]
